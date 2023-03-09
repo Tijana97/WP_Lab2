@@ -1,3 +1,6 @@
 # WP_Lab2
-Collaborators:
+
+Collaborators: 
+{Tijana}
 {Emina}
+
